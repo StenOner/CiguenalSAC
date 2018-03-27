@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CigüeñalSAC</string>
+    <string name="welcome">Bienvenido a nuestra aplicacion de Tours</string>
+    <string name="price">Precios:</string>
+    <string name="stay">Estadia:</string>
+    <string name="desc">Descripcion:</string>
+</resources>
